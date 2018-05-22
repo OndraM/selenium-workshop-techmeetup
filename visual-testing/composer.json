@@ -1,0 +1,11 @@
+{
+    "require": {
+        "lmc/steward": "dev-master",
+        "applitools/eyes.sdk.php": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "My\\": "tests/"
+        }
+    }
+}

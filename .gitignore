@@ -1,0 +1,9 @@
+# Ignore dependencies installed via Composer
+vendor
+
+# Ignore test logs
+logs
+.php_cs.cache
+
+# IDE files
+.idea
